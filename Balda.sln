@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balda", "Balda\Balda.csproj", "{156930C6-B775-4E7C-B568-EEC1312B7A64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{156930C6-B775-4E7C-B568-EEC1312B7A64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{156930C6-B775-4E7C-B568-EEC1312B7A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{156930C6-B775-4E7C-B568-EEC1312B7A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{156930C6-B775-4E7C-B568-EEC1312B7A64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC545641-E0FC-45AD-8B08-C3C3175A9A25}
+	EndGlobalSection
+EndGlobal
